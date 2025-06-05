@@ -10,7 +10,7 @@ Schedule breaks by setting start and end times. This script opens a web browser 
 
 2. [convert-video-to-images](https://github.com/anargis/tiny-python-scripts/blob/main/convert-video-to-images.py)
 **Extract every frame from a video.**  
-Convert a video file into a sequence of images, frame-by-frame.
+Convert a video file into a sequence of images, frame-by-frame.  
 **Modules used:** `os`, `cv2 (OpenCV)`
 
 3. [send-email-via-sendgrid](https://github.com/anargis/tiny-python-scripts/blob/main/send-email-via-sendgrid.py)
@@ -26,7 +26,7 @@ Displays platform, memory usage, and disk space stats — handy for quick diagno
 5. [tutanota-empty-spam-folder, tutanota_credentials](https://github.com/anargis/tiny-python-scripts/blob/main/tutanota-empty-spam-folder.py)
 **Automatically clean your Tutanota spam folder.**  
 Uses Playwright to log in and empty the spam folder from your Tutanota email account.  
-Includes helper file: `tutanota_credentials.py` 
+Includes helper file: `tutanota_credentials.py`  
 **Module used:** `playwright`
 
 6. [vscode-change-color-theme](https://github.com/anargis/tiny-python-scripts/blob/main/vscode-change-color-theme.py)
