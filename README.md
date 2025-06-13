@@ -35,6 +35,11 @@ Switch your VS Code color theme from light to dark (and vice versa) with a simpl
 Want full system theme switching? Check out [gnome-theme-switcher](https://github.com/anargis/gnome-theme-switcher)  
 **Modules used:** `time`, `pynput`
 
+7. [scan-cms](https://github.com/anargis/tiny-python-scripts/blob/main/scan-cms.py)
+**Detect popular CMS platforms on any website.**
+Identify if a website is running one of the major CMS platforms—WordPress, Joomla, or Moodle  
+**Modules used:** `requests`
+
 ## Notes
 
 - These scripts are meant to be simple, clean, and easy to extend.
