@@ -40,6 +40,10 @@ Want full system theme switching? Check out [gnome-theme-switcher](https://githu
 Identify if a website is running one of the major CMS platforms—WordPress, Joomla, or Moodle  
 **Modules used:** `requests`
 
+8. [scan-subdomains](https://github.com/anargis/tiny-python-scripts/blob/main/scan-subdomains.py)  
+**Detect subdomains for any domain using [Sublist3r](https://github.com/aboul3la/Sublist3r) on the fly.**  
+**Modules used:** `subprocess`, `requests` 
+
 ## Notes
 
 - These scripts are meant to be simple, clean, and easy to extend.
