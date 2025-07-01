@@ -44,7 +44,7 @@ Identify if a website is running one of the major CMS platforms—WordPress, Joo
 **Detect subdomains for any domain using [Sublist3r](https://github.com/aboul3la/Sublist3r) on the fly.**  
 **Modules used:** `subprocess`, `requests` 
 
-9. [scan-wp-post-cat-tag](https://github.com/anargis/tiny-python-scripts/blob/main/scan-post-wp-post-cat-tag.py)  
+9. [scan-wp-post-cat-tag](https://github.com/anargis/tiny-python-scripts/blob/main/scan-wp-post-cat-tag.py)  
 **Detect and count wordpress posts, categories and tags.**  
 **Modules used:** `requests` 
 
